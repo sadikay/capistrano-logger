@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = Capistrano::CapistranoLogger::VERSION
   s.authors     = ['Sadik Ay']
   s.email       = ['sadikay91@gmail.com']
-  s.homepage    = 'https://github.com/ayamomiji/capistrano-rails-tail-log'
+  s.homepage    = 'https://github.com/sadikay/capistrano-logger'
   s.summary     = 'Monitorize server logs in local'
   s.description = 'Monitorize server logs in local'
   s.license     = 'MIT'
